@@ -1,3 +1,3 @@
 # apprentissage-github
 Mes debuts sur github 
-Edité via sublime text
+afin de maitriser l'usage de Git et Github
